@@ -1,0 +1,12 @@
+bin/
+lib/
+obj/
+.vs/
+*.suo
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.log
+user.vsprops
+*.VC.db
+*.VC.VC.opendb
